@@ -11,8 +11,3 @@ pillow
 tensorflow
 keras==2.3.1
 matplotlib
-gwpy
-numpy
-openslide-python
-opencv-python
-os
