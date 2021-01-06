@@ -1,8 +1,17 @@
---upgrade pip
-tensorflow==2.3.1
-streamlit
-gwpy
+pip==20.2.2
+numpy==1.19.1
+scipy
+keras-preprocessing
+six
+pyyaml
+h5py
+keras-applications
+streamlit==0.62.1
+pillow
+tensorflow
+keras==2.3.1
 matplotlib
+gwpy
 numpy
 openslide-python
 opencv-python
