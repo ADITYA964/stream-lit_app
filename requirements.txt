@@ -1,5 +1,5 @@
 pip>=19
-tensorflow
+tensorflow==2.4
 streamlit
 gwpy
 matplotlib
